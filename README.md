@@ -1,2 +1,2 @@
-# Spestrum
+# Spectrum
 Where communities live
